@@ -1,5 +1,7 @@
 # insta-meili-test
 
+test ui for meilisearch
+
 ## Project Setup
 
 ```sh
